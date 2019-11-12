@@ -50,6 +50,9 @@ Check out this [link](https://support.microsoft.com/en-us/help/827218/how-to-det
 
 (For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux_NoVis.zip) to obtain the "headless" version of the environment. You will not be able to watch the agent without enabling a virtual screen, but you will be able to train the agent. (To watch the agent, you should follow the instructions to enable a virtual screen, and then download the environment for the Linux operating system above.)
 
+
+==> Place the downloaded file into your cloned project file .
+
 ## 4. Project structure : 
 
 * The Agent.py file contains the general structure of the Reinforcement learning agent ( single agent) .
@@ -62,4 +65,3 @@ Check out this [link](https://support.microsoft.com/en-us/help/827218/how-to-det
 * Report.html is a detailed report about my approach.
 Continuous control Report.html is a report about the different aspects of this project.
 
-==> Place the downloaded file into your cloned project file .
