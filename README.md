@@ -62,6 +62,5 @@ Check out this [link](https://support.microsoft.com/en-us/help/827218/how-to-det
 * ReplayBuf.py : is the structure of the reply buffer object used. 
 * *.pth are the models /weights checkpoints of my own implementations I provided them in case some one wants to reproduce my work.
 * Tennis.ipynb is the notebook that I used for the training .
-* Report.html is a detailed report about my approach.
-Continuous control Report.md is a report about the different aspects of this project.
+* Report.md is a detailed report about my approach.
 
